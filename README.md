@@ -15,7 +15,7 @@
   
 - ⚡ Fun fact **I love to play badminton**
 
-- [Resume](https://tinyurl.com/mohd-suhail-resume)
+- [Resume](https://tinyurl.com/mohd-suhail-cv)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
