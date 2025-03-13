@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mohd_suhail_in" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_suhail_in?logo=twitter&style=for-the-badge" alt="mohd_suhail_in" /></a> </p>
 
-## 🚀 Coding Profiles
-
 - [LeetCode](https://leetcode.com/u/insuhail1/)
 - [GitHub](https://github.com/insuhail1)
 - [LinkedIn](https://linkedin.com/in/insuhail1)
+
+- [Resume](https://github.com/user-attachments/files/17092831/Mohd_Suhail_Resume.3.pdf)
 
 - 🌱 I’m currently learning **Go lang**
 
@@ -20,8 +20,6 @@
 - 📫 How to reach me **eithansuhail@gmail.com**
   
 - ⚡ Fun fact **I love to play badminton**
-
-- [Resume](https://github.com/user-attachments/files/17092831/Mohd_Suhail_Resume.3.pdf)
 
 
 
