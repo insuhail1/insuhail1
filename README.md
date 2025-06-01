@@ -10,7 +10,7 @@
 - [LeetCode](https://leetcode.com/u/insuhail1/)
 - [GitHub](https://github.com/insuhail1)
 - [LinkedIn](https://linkedin.com/in/insuhail1)
-- - [Portfolio](https://insuhail1.github.io/portfolio/)
+- [Portfolio](https://insuhail1.github.io/portfolio/)
 
 - [Resume](https://github.com/user-attachments/files/17092831/Mohd_Suhail_Resume.3.pdf)
 
