@@ -1,42 +1,106 @@
-<h1 align="center">Hi 👋, I'm Mohd Suhail</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=insuhail1&label=Profile%20views&color=0e75b6&style=flat" alt="insuhail1" /> </p>
+# Mohd Suhail
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=insuhail1" alt="insuhail1" /></a> </p>
+### Senior Frontend Engineer | React.js · Next.js · TypeScript · Full-Stack JavaScript
 
-<p align="left"> <a href="https://twitter.com/mohd_suhail_in" target="blank"><img src="https://img.shields.io/twitter/follow/mohd_suhail_in?logo=twitter&style=for-the-badge" alt="mohd_suhail_in" /></a> </p>
+I build fast, reliable, and maintainable web platforms with staff-level systems thinking across frontend architecture, performance engineering, developer experience, and AI-assisted development workflows.
 
-- [LeetCode](https://leetcode.com/u/insuhail1/)
-- [GitHub](https://github.com/insuhail1)
-- [LinkedIn](https://linkedin.com/in/insuhail1)
-- [Portfolio](https://insuhail1.github.io/portfolio/)
-
-- [Resume](https://insuhail1.github.io/resume/)
-
-- 🌱 I’m currently learning **Go lang**
-
-- 💬 Ask me about **react javascript**
-
-- 📫 How to reach me **eithansuhail@gmail.com**
-  
-- ⚡ Fun fact **I love to play badminton**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/insuhail1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohd_suhail_in" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/insuhail1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="insuhail1" height="30" width="40" /></a>
-<a href="https://instagram.com/insuhail1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohd_suhail_in" height="30" width="40" /></a>
-<a href="https://discord.gg/insuhail1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="insuhail1" height="30" width="40" /></a>
+<p>
+  <a href="https://insuhail1.github.io/resume/">
+    <img src="https://img.shields.io/badge/Resume-111827?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://linkedin.com/in/insuhail1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://insuhail1.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/u/insuhail1/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=insuhail1&show_icons=true&locale=en&layout=compact" alt="insuhail1" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=insuhail1&show_icons=true&locale=en" alt="insuhail1" /></p>
+## Engineering Focus
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=insuhail1&" alt="insuhail1" /></p>
+- Frontend architecture for React.js, Next.js, TypeScript, SSR, SSG, and headless CMS platforms.
+- Performance optimization, SEO-friendly rendering, component systems, and scalable UI foundations.
+- Full-stack JavaScript delivery with Node.js, Express.js, REST APIs, GraphQL, and API integrations.
+- Product-minded engineering across fintech, B2B SaaS, blockchain, NFT marketplaces, and marketing platforms.
+- Quality practices across unit, integration, and end-to-end testing with Jest, Cypress, and React Testing Library.
+- AI-assisted development using Claude MCP and Model Context Protocol for codebase exploration, implementation planning, and developer productivity.
+
+## Selected Impact
+
+| Area | Result |
+| --- | --- |
+| Cost optimization | Led enterprise e-signature migration from HelloSign/Dropbox Sign to Anvil, reducing annual operational cost by **$140K**. |
+| Web performance | Architected React to Next.js static site generation migration with a headless CMS, improving page load performance by **40%**. |
+| Frontend platforms | Built scalable frontend systems across fintech, blockchain, NFT, B2B SaaS, and high-traffic marketing surfaces. |
+| Engineering quality | Improved release confidence with automated testing, observability, incident response, and production ownership. |
+
+## Core Stack
+
+<table>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td>React.js, Next.js, TypeScript, JavaScript, Redux Toolkit, Tailwind CSS, Storybook, HTML5, CSS3</td>
+  </tr>
+  <tr>
+    <td><strong>Architecture</strong></td>
+    <td>SSR, SSG, Design Systems, Component Libraries, Micro Frontends, Headless CMS, Performance Optimization</td>
+  </tr>
+  <tr>
+    <td><strong>Full Stack</strong></td>
+    <td>Node.js, Express.js, REST APIs, GraphQL, API Integration</td>
+  </tr>
+  <tr>
+    <td><strong>Quality</strong></td>
+    <td>Jest, Cypress, React Testing Library, Unit Testing, Integration Testing, End-to-End Testing</td>
+  </tr>
+  <tr>
+    <td><strong>Observability</strong></td>
+    <td>FullStory, Observe, A/B Testing, Monitoring, Alerting, Incident Management</td>
+  </tr>
+  <tr>
+    <td><strong>AI Development</strong></td>
+    <td>Claude MCP, Model Context Protocol, AI-Assisted Development, Codebase Exploration, Developer Productivity</td>
+  </tr>
+</table>
+
+## How I Work
+
+```txt
+Architecture first        Design systems, rendering strategy, long-term maintainability
+Performance aware         Fast pages, measurable improvements, production-minded tradeoffs
+Product aligned           Engineering choices connected to business and user outcomes
+Quality focused           Tests, observability, readable code, stable releases
+AI enabled                Practical AI workflows for faster understanding and delivery
+```
+
+## Currently Exploring
+
+- AI-assisted engineering workflows with Claude MCP and Model Context Protocol.
+- Better frontend platform patterns for performance, content workflows, and developer experience.
+- System design for scalable React and Next.js applications.
+
+## GitHub Snapshot
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=insuhail1&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Mohd Suhail GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=insuhail1&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+</div>
+
+---
+
+<div align="center">
+
+Open to frontend, full-stack JavaScript, platform engineering, and AI-assisted development opportunities.
+
+**Email:** [eithansuhail@gmail.com](mailto:eithansuhail@gmail.com) · **LinkedIn:** [linkedin.com/in/insuhail1](https://linkedin.com/in/insuhail1)
+
+</div>
